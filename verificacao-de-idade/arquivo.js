@@ -2,6 +2,7 @@ let idade = prompt("Informe a sua idade:")
 
 if(idade < 0) {
   alert('Insira uma idade válida.')
+  return
 }
 
 if(idade <= 12) {

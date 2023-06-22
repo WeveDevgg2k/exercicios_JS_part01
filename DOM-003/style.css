@@ -1,0 +1,30 @@
+body {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.container {
+  background-color: #ccc;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 400px;
+  height: 400px;
+  border-radius: 10px;
+}
+
+#btn {
+  padding: 20px;
+  font-size: 1rem;
+  font-weight: bold;
+  background-color: #12ad34;
+  border-radius: 4px;
+  border: none;
+  cursor: pointer;
+}
+
+.active {
+  background-color: #c92fc9;
+}

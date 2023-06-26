@@ -1,0 +1,14 @@
+.quadrado {
+  width: 100px;
+  height: 100px;
+  background: #ccc;
+}
+
+.ativo {
+  background: #93cc93;
+}
+
+.selecionado {
+  background: #968ea8;
+  color: #fff;
+}

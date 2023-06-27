@@ -1,0 +1,15 @@
+.accordion-header {
+  cursor: pointer;
+  padding: 15px;
+  background: #f1f1f1;
+  border: 1px solid #a07a7a;
+  max-width: 400px;
+}
+.accordion-content {
+  display: none;
+  padding: 15px;
+  background: #fff;
+  border: 1px solid #ccc;
+  border-top: none;
+  max-width: 400px;
+}
